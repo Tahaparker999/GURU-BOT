@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'ᴛʜᴇ T4A-Bot'
 global.premium = 'true'
 global.packname = 'T4A┃ℬᴏᴛ' 
 global.author = 'Taha' 
